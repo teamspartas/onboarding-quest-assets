@@ -12,6 +12,7 @@ Slack 온보딩 퀘스트 카드가 사용하는 공개 이미지 저장소입�
 
 - `cards/wed-01/favorite-channel-v1.png`
 - `cards/wed-02/seat-registration-v1.png`
+- `cards/wed-02/seat-registration-v2.png`
 - `cards/wed-04/slack-profile-v1.png`
 - `cards/wed-05/notion-profile-v1.png`
 - `cards/wed-06/quest-start-v1.png`
